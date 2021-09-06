@@ -1,0 +1,364 @@
+{
+	"formatVersion": 1,
+	"appVersion": "0.47.5",
+	"files": [
+		{
+			"isClone": false,
+			"noteId": "EblSaQEy5rd3",
+			"notePath": [
+				"EblSaQEy5rd3"
+			],
+			"title": "2021年9月6日通知",
+			"notePosition": 0,
+			"prefix": null,
+			"isExpanded": 1,
+			"type": "text",
+			"mime": "text/html",
+			"attributes": [
+				{
+					"type": "relation",
+					"name": "imageLink",
+					"value": "g8ANN1Yd1QLi",
+					"isInheritable": false,
+					"position": 1
+				},
+				{
+					"type": "relation",
+					"name": "imageLink",
+					"value": "B1WTipAMXyFs",
+					"isInheritable": false,
+					"position": 3
+				},
+				{
+					"type": "relation",
+					"name": "imageLink",
+					"value": "1PuPrOtkuSSg",
+					"isInheritable": false,
+					"position": 4
+				}
+			],
+			"format": "markdown",
+			"dataFileName": "2021年9月6日通知.md",
+			"dirFileName": "2021年9月6日通知",
+			"children": [
+				{
+					"isClone": false,
+					"noteId": "g8ANN1Yd1QLi",
+					"notePath": [
+						"EblSaQEy5rd3",
+						"g8ANN1Yd1QLi"
+					],
+					"title": "建筑环境命名示意图.jpg",
+					"notePosition": 0,
+					"prefix": null,
+					"isExpanded": 0,
+					"type": "image",
+					"mime": "image/jpg",
+					"attributes": [
+						{
+							"type": "label",
+							"name": "originalFileName",
+							"value": "建筑环境命名示意图.jpg",
+							"isInheritable": false,
+							"position": 1000
+						}
+					],
+					"dataFileName": "建筑环境命名示意图.jpg"
+				},
+				{
+					"isClone": false,
+					"noteId": "MSCifAdYObOa",
+					"notePath": [
+						"EblSaQEy5rd3",
+						"MSCifAdYObOa"
+					],
+					"title": "小米手机使用指南",
+					"notePosition": 20,
+					"prefix": null,
+					"isExpanded": 1,
+					"type": "text",
+					"mime": "text/html",
+					"attributes": [
+						{
+							"type": "relation",
+							"name": "imageLink",
+							"value": "GE2Fu8RPURam",
+							"isInheritable": false,
+							"position": 1
+						},
+						{
+							"type": "relation",
+							"name": "imageLink",
+							"value": "8NXBUacR7PF1",
+							"isInheritable": false,
+							"position": 2
+						},
+						{
+							"type": "relation",
+							"name": "imageLink",
+							"value": "uv9ZKW2FcP3k",
+							"isInheritable": false,
+							"position": 3
+						},
+						{
+							"type": "relation",
+							"name": "imageLink",
+							"value": "geQaeMaV1PJs",
+							"isInheritable": false,
+							"position": 4
+						},
+						{
+							"type": "relation",
+							"name": "imageLink",
+							"value": "ZUSgDHOEdnEt",
+							"isInheritable": false,
+							"position": 5
+						},
+						{
+							"type": "relation",
+							"name": "imageLink",
+							"value": "2aka2CCnbRH9",
+							"isInheritable": false,
+							"position": 7
+						},
+						{
+							"type": "relation",
+							"name": "imageLink",
+							"value": "YgdVl9ILflXa",
+							"isInheritable": false,
+							"position": 8
+						}
+					],
+					"format": "markdown",
+					"dataFileName": "小米手机使用指南.md",
+					"dirFileName": "小米手机使用指南",
+					"children": [
+						{
+							"isClone": false,
+							"noteId": "GE2Fu8RPURam",
+							"notePath": [
+								"EblSaQEy5rd3",
+								"MSCifAdYObOa",
+								"GE2Fu8RPURam"
+							],
+							"title": "image.png",
+							"notePosition": 0,
+							"prefix": null,
+							"isExpanded": 0,
+							"type": "image",
+							"mime": "image/jpg",
+							"attributes": [
+								{
+									"type": "label",
+									"name": "originalFileName",
+									"value": "image.png",
+									"isInheritable": false,
+									"position": 1000
+								}
+							],
+							"dataFileName": "image.png"
+						},
+						{
+							"isClone": false,
+							"noteId": "8NXBUacR7PF1",
+							"notePath": [
+								"EblSaQEy5rd3",
+								"MSCifAdYObOa",
+								"8NXBUacR7PF1"
+							],
+							"title": "image.png",
+							"notePosition": 10,
+							"prefix": null,
+							"isExpanded": 0,
+							"type": "image",
+							"mime": "image/jpg",
+							"attributes": [
+								{
+									"type": "label",
+									"name": "originalFileName",
+									"value": "image.png",
+									"isInheritable": false,
+									"position": 1000
+								}
+							],
+							"dataFileName": "1_image.png"
+						},
+						{
+							"isClone": false,
+							"noteId": "uv9ZKW2FcP3k",
+							"notePath": [
+								"EblSaQEy5rd3",
+								"MSCifAdYObOa",
+								"uv9ZKW2FcP3k"
+							],
+							"title": "image.png",
+							"notePosition": 20,
+							"prefix": null,
+							"isExpanded": 0,
+							"type": "image",
+							"mime": "image/jpg",
+							"attributes": [
+								{
+									"type": "label",
+									"name": "originalFileName",
+									"value": "image.png",
+									"isInheritable": false,
+									"position": 1000
+								}
+							],
+							"dataFileName": "2_image.png"
+						},
+						{
+							"isClone": false,
+							"noteId": "geQaeMaV1PJs",
+							"notePath": [
+								"EblSaQEy5rd3",
+								"MSCifAdYObOa",
+								"geQaeMaV1PJs"
+							],
+							"title": "image.png",
+							"notePosition": 30,
+							"prefix": null,
+							"isExpanded": 0,
+							"type": "image",
+							"mime": "image/jpg",
+							"attributes": [
+								{
+									"type": "label",
+									"name": "originalFileName",
+									"value": "image.png",
+									"isInheritable": false,
+									"position": 1000
+								}
+							],
+							"dataFileName": "3_image.png"
+						},
+						{
+							"isClone": false,
+							"noteId": "ZUSgDHOEdnEt",
+							"notePath": [
+								"EblSaQEy5rd3",
+								"MSCifAdYObOa",
+								"ZUSgDHOEdnEt"
+							],
+							"title": "image.png",
+							"notePosition": 40,
+							"prefix": null,
+							"isExpanded": 0,
+							"type": "image",
+							"mime": "image/jpg",
+							"attributes": [
+								{
+									"type": "label",
+									"name": "originalFileName",
+									"value": "image.png",
+									"isInheritable": false,
+									"position": 1000
+								}
+							],
+							"dataFileName": "4_image.png"
+						},
+						{
+							"isClone": false,
+							"noteId": "2aka2CCnbRH9",
+							"notePath": [
+								"EblSaQEy5rd3",
+								"MSCifAdYObOa",
+								"2aka2CCnbRH9"
+							],
+							"title": "image.png",
+							"notePosition": 60,
+							"prefix": null,
+							"isExpanded": 0,
+							"type": "image",
+							"mime": "image/jpg",
+							"attributes": [
+								{
+									"type": "label",
+									"name": "originalFileName",
+									"value": "image.png",
+									"isInheritable": false,
+									"position": 1000
+								}
+							],
+							"dataFileName": "5_image.png"
+						},
+						{
+							"isClone": false,
+							"noteId": "YgdVl9ILflXa",
+							"notePath": [
+								"EblSaQEy5rd3",
+								"MSCifAdYObOa",
+								"YgdVl9ILflXa"
+							],
+							"title": "image.png",
+							"notePosition": 70,
+							"prefix": null,
+							"isExpanded": 0,
+							"type": "image",
+							"mime": "image/jpg",
+							"attributes": [
+								{
+									"type": "label",
+									"name": "originalFileName",
+									"value": "image.png",
+									"isInheritable": false,
+									"position": 1000
+								}
+							],
+							"dataFileName": "6_image.png"
+						}
+					]
+				},
+				{
+					"isClone": false,
+					"noteId": "B1WTipAMXyFs",
+					"notePath": [
+						"EblSaQEy5rd3",
+						"B1WTipAMXyFs"
+					],
+					"title": "image.png",
+					"notePosition": 30,
+					"prefix": null,
+					"isExpanded": 0,
+					"type": "image",
+					"mime": "image/jpg",
+					"attributes": [
+						{
+							"type": "label",
+							"name": "originalFileName",
+							"value": "image.png",
+							"isInheritable": false,
+							"position": 1000
+						}
+					],
+					"dataFileName": "image.png"
+				},
+				{
+					"isClone": false,
+					"noteId": "1PuPrOtkuSSg",
+					"notePath": [
+						"EblSaQEy5rd3",
+						"1PuPrOtkuSSg"
+					],
+					"title": "image.png",
+					"notePosition": 40,
+					"prefix": null,
+					"isExpanded": 0,
+					"type": "image",
+					"mime": "image/jpg",
+					"attributes": [
+						{
+							"type": "label",
+							"name": "originalFileName",
+							"value": "image.png",
+							"isInheritable": false,
+							"position": 1000
+						}
+					],
+					"dataFileName": "1_image.png"
+				}
+			]
+		}
+	]
+}
